@@ -1,0 +1,52 @@
+#topo{
+    background-color: #ccc;
+    
+}
+
+#menu{
+    background-color: whitesmoke;
+}
+
+#conteudo{
+    background-color: rgb(255, 192, 229);
+}
+
+#rodape{
+    background-color: aquamarine;
+}
+
+.content{
+    background-color: blueviolet;
+}
+
+#titulo{
+    color: rgb(187, 27, 215);
+    font-size: 56px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#subtitulo{
+    color: rgb(219, 232, 233);
+    font-size: 42px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.btn-cancelar{
+    background-color: rgb(193, 28, 179);
+    color: white;
+}
+
+#carousel-Autoplaying{
+
+    width: 50%;
+    height: 500px;
+    
+}
+
+
+img{
+    
+    height: 500px;
+}
+
