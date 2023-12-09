@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box;   
+}
+
+
+body{
+    
+   background-image: url("../images/login-background.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+      
+    
+}
+
+div.loginHeader{
+    text-align: center;
+}
+
+div.loginHeader h1{
+    font-size: 100px;
+    color: #f685a2;
+    font-weight: bold;
+}
+
+div.loginHeader p{
+    color: #ffdae3;
+    font-size: 50px;
+	margin:0px;
+	text-transform: uppercase;
+	display: inline-block;
+    font-family: 'Sans';  
+    
+}
+
+div.loginHeader p:after{
+	content:'';
+	display: block;
+	height: 5px;
+	background: #f685a2;
+	margin:0 auto;
+}
+
+div.loginBody{
+    margin: 0 auto;
+    width: 500px;
+    background: rgba(0,0,0,.5);
+    padding: 50px;
+
+}
+
